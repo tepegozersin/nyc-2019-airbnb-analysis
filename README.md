@@ -26,7 +26,7 @@ This project analyzes Airbnb listings in New York City for the year 2019. Using 
 
 ## How to Use
 1. Clone the repo:  
-   `git clone https://github.com/yourusername/nyc-airbnb-analysis.git`
+   `git clone https://github.com/tepegozersin/nyc-2019-airbnb-analysis.git`
 
 2. Install dependencies:  
    `pip install -r requirements.txt`
