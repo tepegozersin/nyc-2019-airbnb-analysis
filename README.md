@@ -12,7 +12,13 @@ This project analyzes Airbnb listings in New York City for the year 2019. Using 
 ## Visualizations
 - Distribution charts for prices and room types.
 - Interactive maps showing listing locations, color-coded by price ranges.
-- A focused map highlighting ultra-luxury listings with radius scaled by number of reviews.
+- A focused map highlighting ultra-luxury listings with radius scaled by number of reviews
+
+### Price Distribution
+![Price Distribution](images/Dstprc.png)
+
+### NYC Airbnb UltraLux
+![NYC Airbnb UltraLux](images/Ultrlx.png)
 
 ## Data Cleaning & Preparation
 - Missing values in some columns were handled thoughtfully to maintain dataset integrity.
