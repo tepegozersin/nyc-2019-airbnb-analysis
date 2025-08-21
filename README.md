@@ -46,5 +46,5 @@ This project analyzes Airbnb listings in New York City for the year 2019. Using 
 **Ersin Tepegöz**  
 Location: Antalya, Turkey  
 Email: tepegozersin@gmail.com  
-LinkedIn: [linkedin.com/in/ersintepegoz](https://www.linkedin.com/in/ersin-tepeg%C3%B6z-8710ab366/)  
+LinkedIn: [linkedin.com/in/tepegozersin](https://www.linkedin.com/in/tepegozersin/)  
 
